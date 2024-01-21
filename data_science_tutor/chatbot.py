@@ -1,14 +1,14 @@
 from openai import OpenAI
 import streamlit as st
 from moderator import moderator
+import os 
 
 
 
 gpt_model = 'gpt-3.5-turbo'
 client = OpenAI(
     # Read the OpenAI API key from the environment variable
-    # api_key = os.environ.get('OPENAI_API_KEY')
-    api_key= "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"
+    api_key = os.environ.get('OPENAI_API_KEY')
 )
 
 messages = [

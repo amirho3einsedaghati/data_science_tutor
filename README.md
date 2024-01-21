@@ -1,4 +1,11 @@
 # Data Science Tutor
+[![GitHub License](https://img.shields.io/github/license/amirho3einsedaghati/data_science_tutor?color=yellow)](https://github.com/amirho3einsedaghati/data_science_tutor/blob/main/LICENSE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/amirho3einsedaghati/data_science_tutor?color=red)](https://github.com/amirho3einsedaghati/data_science_tutor/)
+[![GitHub forks](https://img.shields.io/github/forks/amirho3einsedaghati/data_science_tutor?color=yellow)](https://github.com/amirho3einsedaghati/data_science_tutor/forks)
+[![GitHub User's stars](https://img.shields.io/github/stars/amirho3einsedaghati/data_science_tutor?color=red)](https://github.com/amirho3einsedaghati/data_science_tutor/stargazers)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/amirho3einsedaghati/data_science_tutor?color=yellow)](https://github.com/amirho3einsedaghati/data_science_tutor/pulls)
+[![GitHub issues](https://img.shields.io/github/issues-raw/amirho3einsedaghati/data_science_tutor?color=red)](https://github.com/amirho3einsedaghati/data_science_tutor/issues)
+
 <p>
 This AI-powered chatbot was created by the Chat Completions and Moderations endpoints of OpenAI API. It acts like a data science tutor who provides accurate, clear answers to user's questions and It's sensitive to the contents that violate OpenAI's usage policies, including inciting violence, hate speech, and so forth.<br/>
 

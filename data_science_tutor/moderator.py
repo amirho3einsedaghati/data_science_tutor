@@ -1,3 +1,4 @@
+# Import Dependencies
 from openai import OpenAI
 import os 
 
@@ -10,6 +11,7 @@ client = OpenAI(
 )
 
 
+# Check content for violations of OpenAI's usage policies.
 def moderator(prompt:str):
     response = client.moderations.create(
         input= prompt,

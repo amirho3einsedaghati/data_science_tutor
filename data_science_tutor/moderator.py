@@ -1,12 +1,12 @@
 from openai import OpenAI
+import os 
 
 
 
 moderation_model = 'text-moderation-latest'
 client = OpenAI(
     # Read the OpenAI API key from the environment variable
-    # api_key = os.environ.get('OPENAI_API_KEY')
-    api_key="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"
+    api_key = os.environ.get('OPENAI_API_KEY')
 )
 
 
